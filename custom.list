@@ -1,1 +1,9 @@
-
+192.168.11.253 pihole.lan
+192.168.11.28 oficina-ubuntu.lan
+192.168.11.1 gateway.lan
+192.168.11.254 nas.lan
+192.168.11.90 tabS2.lan
+192.168.11.97 note9.lan
+192.168.11.47 tornado-ubuntu.lan
+192.168.11.47 servidorcasa.lan
+192.168.11.253 pihole.lan
