@@ -8,3 +8,4 @@
 192.168.11.47 proxmox.micasa.lan
 192.168.11.253 pihole.lan
 192.168.11.252 pihole-replica.lan
+192.168.11.1 sobrevivi.reboot
