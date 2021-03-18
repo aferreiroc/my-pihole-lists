@@ -7,3 +7,5 @@
 192.168.11.47 tornado-ubuntu.lan
 192.168.11.47 servidorcasa.lan
 192.168.11.253 pihole.lan
+192.168.11.47 proxmox.lan
+192.168.11.47 proxmox.micasa.lan
