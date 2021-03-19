@@ -24,7 +24,6 @@ id,address,enabled,date_added,date_modified,comment
 24,https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_facebook0.txt,0,1602463955,1616033454,Analytics
 25,https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt,0,1602463955,1616033454,Analytics
 26,https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt,1,1602463978,1616033454,Spyware
-27,https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole_HOSTS_Spyware.txt,1,1602463978,1616033454,Spyware
 28,https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/WindowsSpyBlocker81.txt,1,1602463978,1616033454,Spyware
 29,https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt,1,1602463978,1616033454,Spyware
 30,https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt,1,1602464000,1616033454,"Mining networks"
