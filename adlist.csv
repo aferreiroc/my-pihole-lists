@@ -45,3 +45,5 @@ id,address,enabled,date_added,date_modified,comment
 46,https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts,1,1602464048,1616033455,Phising
 47,https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt,1,1602464048,1616033455,Phising
 49,https://dbl.oisd.nl/,1,1602465535,1616033455,https://www.reddit.com/r/pihole/comments/bppug1/introducing_the/
+50,https://github.com/XionKzn/PiHole-Lists/tree/master/MikroTik,1,1616115810,1616115810,
+51,https://github.com/XionKzn/PiHole-Lists/tree/master/PiHole,1,1616115831,1616115831,
