@@ -4,8 +4,7 @@
 192.168.11.90 tabS2.lan
 192.168.11.97 note9.lan
 192.168.11.47 tornado-ubuntu.lan
-192.168.11.47 proxmox.lan
-192.168.11.47 proxmox.micasa.lan
 192.168.11.253 pihole.lan
 192.168.11.252 pihole-replica.lan
 192.168.11.49 observium.lan
+192.168.11.250 proxmox.lan
