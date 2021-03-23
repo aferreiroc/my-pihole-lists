@@ -7,6 +7,7 @@
 192.168.11.253 pihole.lan
 192.168.11.252 pihole-replica.lan
 192.168.11.250 proxmox.lan
-192.168.11.201 pfsense.micasa.lan
 192.168.11.251 truenas.lan
 192.168.11.251 observium.lan
+192.168.0.1 pfsense.lan
+192.168.11.249 pfsense-wan.lan
