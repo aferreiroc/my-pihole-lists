@@ -9,6 +9,6 @@
 192.168.11.250 proxmox.lan
 192.168.11.251 truenas.lan
 192.168.11.251 observium.lan
-192.168.0.1 pfsense.lan
-192.168.11.249 pfsense-wan.lan
-192.168.11.1 sophos-xg.lan
+192.168.11.1 pfsense.lan
+192.168.11.249 sophos-xg.lan
+192.168.2.40 pfsense-wan.lan
