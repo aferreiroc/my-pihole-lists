@@ -11,3 +11,4 @@
 192.168.11.251 observium.lan
 192.168.0.1 pfsense.lan
 192.168.11.249 pfsense-wan.lan
+192.168.11.1 sophos-xg.lan
