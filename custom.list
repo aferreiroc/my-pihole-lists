@@ -14,3 +14,6 @@
 192.168.2.40 pfsense-wan.lan
 192.168.11.21 nexusplayer.tv.lan
 192.168.11.140 diana.lan
+192.168.11.10 recibidor.lan
+192.168.2.1 modem
+192.168.11.3 flightradar.lan
