@@ -6,7 +6,6 @@
 192.168.11.47 tornado-ubuntu.lan
 192.168.11.253 pihole.lan
 192.168.11.252 pihole-replica.lan
-192.168.11.250 proxmox.lan
 192.168.11.251 truenas.lan
 192.168.11.251 observium.lan
 192.168.11.1 pfsense.lan
@@ -17,4 +16,6 @@
 192.168.2.1 modem
 192.168.11.3 flightradar.lan
 192.168.11.249 docker-server.lan
-192.168.11.200 proxmox-amd.micasa.lan
+192.168.11.200 proxmox.lan
+192.168.11.200 fxserver.micasa.lan
+192.168.11.201 giganuc.micasa.lan
